@@ -1,0 +1,79 @@
+[
+  {
+    "username": "Ivanmih99",
+    "password": "ivan123",
+    "age": 23,
+    "isActive": true,
+    "date": "06.03.2023"
+  },
+  {
+    "username": "Marko03",
+    "password": "marko123",
+    "age": 19,
+    "isActive": true,
+    "date": "06.03.2023"
+  },
+  {
+    "username": "Nikola03",
+    "password": "nikola123",
+    "age": 23,
+    "isActive": true,
+    "date": "06.03.2023"
+  },
+  {
+    "username": "user01",
+    "password": "user123",
+    "age": 22,
+    "isActive": true,
+    "date": "06.03.2023"
+  },
+  {
+    "username": "user02",
+    "password": "user123",
+    "age": 25,
+    "isActive": false,
+    "date": "01.03.2023"
+  },
+  {
+    "username": "user03",
+    "password": "user123",
+    "age": 26,
+    "isActive": false,
+    "date": "02.03.2023"
+  },
+  {
+    "username": "user04",
+    "password": "user123",
+    "age": 24,
+    "isActive": false,
+    "date": "01.03.2023"
+  },
+  {
+    "username": "user05",
+    "password": "user123",
+    "age": 25,
+    "isActive": false,
+    "date": "01.03.2023"
+  },
+  {
+    "username": "user06",
+    "password": "user123",
+    "age": 27,
+    "isActive": false,
+    "date": "02.03.2023"
+  },
+  {
+    "username": "user07",
+    "password": "user123",
+    "age": 25,
+    "isActive": false,
+    "date": "03.03.2023"
+  },
+  {
+    "username": "user09",
+    "password": "user123",
+    "age": 22,
+    "isActive": true,
+    "date": "02.03.2023"
+  }
+]
